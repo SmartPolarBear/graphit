@@ -1,0 +1,12 @@
+[submodule "lib/gtest/gtest"]
+	path = lib/gtest/gtest
+	url = https://github.com/google/googletest.git
+[submodule "lib/fmt/fmt"]
+	path = lib/fmt/fmt
+	url = https://github.com/fmtlib/fmt.git
+[submodule "lib/range-v3/range-v3"]
+	path = lib/range-v3/range-v3
+	url = https://github.com/ericniebler/range-v3.git
+[submodule "lib/gsl/gsl"]
+	path = lib/gsl/gsl
+	url = https://github.com/microsoft/GSL.git
